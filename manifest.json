@@ -1,0 +1,21 @@
+{
+  "name": "Glacial Breath",
+  "short_name": "Breath",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/lucide:wind.svg?color=%2322d3ee",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.iconify.design/lucide:wind.svg?color=%2322d3ee",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
