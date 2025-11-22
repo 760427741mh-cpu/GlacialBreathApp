@@ -1,3 +1,3 @@
 git add .
-git commit -m "Fix build dependencies and cleanup html"
+git commit -m "Fix postcss config with explicit imports"
 git push
